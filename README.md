@@ -26,10 +26,10 @@
 Сайт полностью функционирует, сейчас он доступен по адресу: https://videosalon.pro/
 Однако, насколько я знаю, в данный момент продолжается доработка и внесение новых элементов, сейчас проектом не занимаюсь.
 
-
+Рис. 1
 ![Screenshot_2564](https://user-images.githubusercontent.com/106706007/217262996-913bb805-9173-41c2-827c-c2fbe86a71d4.png)
-
+Рис. 2
 ![Screenshot_2565](https://user-images.githubusercontent.com/106706007/217263022-5ef00524-f31d-404e-a6ea-eeff02027f7d.png)
-
+Рис. 3
 ![Screenshot_2567](https://user-images.githubusercontent.com/106706007/217263044-4913bb6e-3db8-434a-9d0c-c3bf4ecda035.png)
 
